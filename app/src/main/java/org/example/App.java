@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Updated greeting from Student B (feature branch).";
+        return "Updated greeting from Student B (Elmira Aliyeva) (feature branch).";
     }
     
 
