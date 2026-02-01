@@ -5,8 +5,9 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Gradle build and Git workflow successful.";
+        return "Updated greeting from Student B (feature branch).";
     }
+    
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
